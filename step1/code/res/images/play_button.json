@@ -1,0 +1,39 @@
+{"frames": [
+
+{
+	"filename": "play_button_click.png",
+	"frame": {"x":2,"y":2,"w":252,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":6,"w":252,"h":100},
+	"sourceSize": {"w":270,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "play_button_out.png",
+	"frame": {"x":507,"y":2,"w":246,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":13,"w":246,"h":93},
+	"sourceSize": {"w":270,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "play_button_over.png",
+	"frame": {"x":256,"y":2,"w":249,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":9,"w":249,"h":97},
+	"sourceSize": {"w":270,"h":110},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "play_button.png",
+	"format": "RGBA8888",
+	"size": {"w":755,"h":104},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ba95dd961c2e4c529972b5ad9d26db7a:419aa61a70896882ff5dd0a8d99eea66:416e97c0ce082451e90d8ec3b67437d9$"
+}
+}
